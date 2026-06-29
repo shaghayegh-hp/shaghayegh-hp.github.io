@@ -30,7 +30,6 @@ Advanced Database and Data Mining courses.
 
 ## Publications
 
-- **Sh. Hosseinpour** and F. R. Taghikhah, "CausalXAI Framework," *(In progress)*.
 - F. R. Taghikhah, **Sh. Hosseinpour**, and J. Gao, "HeteroX: An Interpretable Dual-tier Heterogeneous Graph for Renewable Energy Investment Decisions," *Computers & Industrial Engineering*, vol. 212, 2026. **Q1**
 - **Sh. Hosseinpour** and S. Das, "POSTER: A Multi-Signal Model for Detecting Evasive Smishing," *ACM WiSec 2025*. **B Ranking**
 - **Sh. Hosseinpour** and H. Shakibian, "Complex-Network based Model for SMS Spam Filtering," *Computer Networks*, vol. 255, 2024. **Q1**
