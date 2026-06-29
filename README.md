@@ -1,7 +1,5 @@
 <div align="center">
 
-# Shaghayegh Hosseinpour
-
 [![Email](https://img.shields.io/badge/Email-sh.hosseinpour98%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sh.hosseinpour98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaghayegh-hosseinpour-894943246)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=dy5kYHsAAAAJ&hl=en&oi=ao)
@@ -19,6 +17,7 @@ I am an AI researcher with a focus on **Natural Language Processing**, **Large L
 ## 🎓 Education
 
 **M.Sc. in Software Engineering** — Alzahra University, Tehran, Iran *(2022 – 2025)*
+
 🔬 Thesis: *Two-Stage Large Language Model Processing for SMS Spam Detection*
 
 **B.Sc. in Computer Engineering** — Shahrood University of Technology, Iran *(2016 – 2021)*
@@ -28,12 +27,15 @@ I am an AI researcher with a focus on **Natural Language Processing**, **Large L
 ## 💼 Experience
 
 **🔹 Research Affiliate** — Data Agency and Security (DAS) Lab, George Mason University, USA *(2025)*
+
 AI researcher specializing in user-centered security and privacy.
 
 **🔹 Research Assistant** — Data Mining Lab, Alzahra University, Tehran, Iran *(2022 – 2025)*
+
 Lab coordinator and AI researcher.
 
 **🔹 Teaching Assistant** — Alzahra University, Tehran, Iran *(2023 – 2024)*
+
 Advanced Database and Data Mining courses.
 
 ---
