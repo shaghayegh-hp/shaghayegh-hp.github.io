@@ -47,6 +47,6 @@ Natural Language Processing · Large Language Models · Explainable AI · Causal
 
 <div align="center">
 
-*Last updated: June 2026*
+Last updated: June 2026
 
 </div>
