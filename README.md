@@ -2,7 +2,7 @@
 
 AI researcher with a focus on Natural Language Processing, Large Language Models, and Explainable AI.
 
-📧 sh.hosseinpour98@gmail.com · [LinkedIn](www.linkedin.com/in/shaghayegh-hosseinpour-894943246) · [Google Scholar]([#](https://scholar.google.com/citations?user=dy5kYHsAAAAJ&hl=en&oi=ao))
+📧 sh.hosseinpour98@gmail.com · [LinkedIn](www.linkedin.com/in/shaghayegh-hosseinpour-894943246) · [Google Scholar](https://scholar.google.com/citations?user=dy5kYHsAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -42,6 +42,8 @@ Advanced Database and Data Mining courses.
 ## Research Interests
 
 Natural Language Processing · Large Language Models · Explainable AI · Causality · Complex Networks · Artificial Intelligence
+
+---
 
 <div align="center">
 
